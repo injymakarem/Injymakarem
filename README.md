@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Injy Makarem!
 
-<!--
-**injymakarem/Injymakarem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 💙  
+I'm a Business Information Systems (BIS) student passionate about Data Analysis and turning data into useful insights 📊✨
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 BIS Student (Level 1)
+- 📊 Interested in Data Analysis & Freelancing
+- 📚 Currently learning:
+  - Data Analysis fundamentals
+  - SQL & Databases
+  - Excel for Data Analysis
+  - Python for Data Analysis 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 🐍 Python (Beginner)
+- 📊 Microsoft Excel (Data Analysis basics)
+- 🗄️ SQL (Beginner)
+- 🧹 Data Cleaning (basic)
+- 📈 Data Visualization (basic)
+- ⚡ Attention to detail & fast learning
+
+## 🎯 Goals
+- 📊 Become a professional Data Analyst
+- 💼 Start freelancing in Data Analysis
+- 🧠 Work on real datasets & projects
+- 🚀 Build a strong portfolio using Python & data tools
+
+## 📂 Projects
+🚧 Coming soon... I'm currently working on my first Data Analysis projects!
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/injy-makarem-96b6b92a3  
+- 💻 GitHub: https://github.com/injymakarem  
+
+---
+
+✨ *Thanks for visiting my profile!*
